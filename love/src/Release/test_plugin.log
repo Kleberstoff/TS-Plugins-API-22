@@ -1,0 +1,5 @@
+﻿  plugin.c
+plugin.c(229): warning C4244: 'function': conversion from 'uint64' to 'anyID', possible loss of data
+     Creating library C:\Users\justa\Documents\GitHub\TS-Plugins-API-22\love\src\Release\love.lib and object C:\Users\justa\Documents\GitHub\TS-Plugins-API-22\love\src\Release\love.exp
+  test_plugin.vcxproj -> C:\Users\justa\Documents\GitHub\TS-Plugins-API-22\love\src\Release\love.dll
+  test_plugin.vcxproj -> C:\Users\justa\Documents\GitHub\TS-Plugins-API-22\love\src\Release\love.pdb (Full PDB)

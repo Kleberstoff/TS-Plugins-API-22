@@ -1,0 +1,10 @@
+﻿  plugin.c
+plugin.c(331): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+plugin.c(333): warning C4047: '!=': 'unsigned int' differs in levels of indirection from 'void *'
+plugin.c(337): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+plugin.c(339): warning C4047: '!=': 'unsigned int' differs in levels of indirection from 'void *'
+plugin.c(343): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+plugin.c(345): warning C4047: '!=': 'unsigned int' differs in levels of indirection from 'void *'
+plugin.c(349): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+     Creating library C:\Users\justa\Documents\Github\TS-Plugins-API-22\yet-another-extended-info-plugin\src\x64\Release\yet-another-extended-info-plugin.lib and object C:\Users\justa\Documents\Github\TS-Plugins-API-22\yet-another-extended-info-plugin\src\x64\Release\yet-another-extended-info-plugin.exp
+  test_plugin.vcxproj -> C:\Users\justa\Documents\Github\TS-Plugins-API-22\yet-another-extended-info-plugin\src\x64\Release\yet-another-extended-info-plugin.dll

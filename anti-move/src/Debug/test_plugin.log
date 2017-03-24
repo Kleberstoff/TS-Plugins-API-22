@@ -1,0 +1,4 @@
+﻿  plugin.c
+     Creating library \projects\teamspeak\plugins\test_plugin.lib and object \projects\teamspeak\plugins\test_plugin.exp
+  test_plugin.vcxproj -> \projects\teamspeak\plugins\test_plugin.dll
+  test_plugin.vcxproj -> \projects\teamspeak\plugins\test_plugin.pdb (Full PDB)
